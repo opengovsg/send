@@ -149,7 +149,7 @@
     "fxa-geodb": "^1.0.4",
     "helmet": "^3.21.2",
     "mkdirp": "^0.5.1",
-    "mozlog": "^2.2.0",
+    "mozlog": "^3.0.2",
     "node-fetch": "^2.6.0",
     "nodemailer": "^6.4.2",
     "nodemailer-direct-transport": "^3.3.2",
